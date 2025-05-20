@@ -1,6 +1,11 @@
 Coptic (Greek) Change History
 ====================
 
+2.4 (2025-05-20)
+----------------
+* Added Ⳳ and ⳳ
+* Modify discrepancies with the coptic_greek.php
+
 2.3 (2024-08-29)
 ----------------
 * Added tablet layout
